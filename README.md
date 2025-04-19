@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Kaztic</h1>
 <p align="center">
-  🧠 Tinkerer | 🛠️ Builder | 🐍 Pythonist | 🤖 ML/AI Curious | 🌍 Open Source Lover
+  🧠 Tinkerer | 🛠️ Builder | 🐍 Pythonist | 🤖 ML/AI Curious 
 </p>
 
 ---
@@ -21,11 +21,10 @@
 ### 🔍 [Attrition Prediction](https://github.com/Kaztic/attrition_prediction)
 > _“Will they stay or will they go now?” – The Clash, and also this model_
 
-- Built with 🐍 **Python**, 📊 **pandas**, 🧠 **scikit-learn**
 - Streamlit-powered interactive UI
 - Predicts employee attrition like a corporate fortune teller
 - Bonus: Clean and readable code, even your manager would love
-
+- Built with 🐍 **Python**, 📊 **pandas**, 🧠 **scikit-learn**
 ---
 
 ### 🧙‍♂️ [RepoSage](https://github.com/Kaztic/RepoSage)
@@ -34,7 +33,7 @@
 - Parses repo structure and ASTs like a champ
 - Checks commit history, doc quality & more
 - Uses **semantic search**, **NLP**, and a hint of wizardry
-- Tech: `Python`, `LangChain`, `GitPython`, `FAISS`, `OpenAI API`
+- Powered by: 🐍 `Python`, `FastAPI`, ♊ `Google Gemini`,
 
 ---
 
@@ -44,23 +43,32 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-000080?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Celery](https://img.shields.io/badge/celery-378A58?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CC292C?style=for-the-badge&logo=redis&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-065F46?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaztic&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaztic&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaztic&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaztic&layout=compact&theme=radical" height="170">
 </p>
 
 ---
 
 ## 🧠 Random Kaztic Facts
 
-- 🐍 Once made an AI bot that gave better life advice than my friends
+- 💡 Has a personal mission to automate away all mundane tasks.
+- 😴 Can fall asleep thinking about code and wake up with a solution.
+- 📝 Has an ever-growing list of project ideas I'll probably never get to.
 - 💡 Can go from “just testing” to full app deployment in one sitting
 - 📎 Clippy 2.0? Nah, I’m building **RepoSage**
 - 🎵 Code with lofi, deploy with synthwave
