@@ -43,11 +43,14 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-000080?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8700?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Celery](https://img.shields.io/badge/celery-378A58?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC292C?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-webservices&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
