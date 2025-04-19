@@ -33,7 +33,7 @@
 - Parses repo structure and ASTs like a champ
 - Checks commit history, doc quality & more
 - Uses **semantic search**, **NLP**, and a hint of wizardry
-- Powered by: 🐍 `Python`, `FastAPI`, ♊ `Google Gemini`,
+- Powered by: 🐍 `Python`, `FastAPI`, ♊ `Google Gemini`
 
 ---
 
@@ -49,9 +49,6 @@
 ![Celery](https://img.shields.io/badge/celery-378A58?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC292C?style=for-the-badge&logo=redis&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-065F46?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
